@@ -29,7 +29,7 @@ I strengthen these skills through **self-hosted homelabs**, **cloud-based enviro
 
 I've developed and implemented hands-on solutions demonstrating enterprise-ready security practices:
 
-#### 1. SOC Automation & Incident Response Pipeline
+#### 1.[SOC Automation & Incident Response Pipeline]([https://example.com](https://github.com/Cobustorro/SOC-Automation-Project)
 
 Built a functional SOC environment integrating SIEM, SOAR (Shuffle), and case management (TheHive).
 * Configured Wazuh with Sysmon for endpoint monitoring and created custom detection rules0].
