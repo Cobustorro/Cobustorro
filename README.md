@@ -36,13 +36,13 @@ Built a functional SOC environment integrating SIEM, SOAR (Shuffle), and case ma
 * Built SOAR workflows to automate enrichment (VirusTotal) and forward alerts].
 * Implemented an analyst-approved containment action that blocks malicious IPs using Wazuh active response2].
 
-#### 2. Active Directory Security & Automated Account Containment
+#### 2. Active Directory Security & Automated Account Containment ## Uploading is in progress
 
 Developed an enterprise-like AD lab integrated with Splunk and automation].
 * Built detections for unauthorized logins and RDP access anomalies].
 * Integrated SOAR workflows to automatically disable compromised AD accounts on approval.
 
-#### 3. Cloud & Endpoint Security
+#### 3. Cloud & Endpoint Security ## Uploading is in progress
 
 Deployed a Microsoft 35 developer environment and connected endpoints to Microsoft Defender for Endpoint.
 * Practiced Sentinel queries (KQL) to investigate authentication anomalies and cloud activity logs2.
