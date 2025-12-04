@@ -1,4 +1,4 @@
-#👋 Hi, I'm Mark!
+# 👋 Hi, I'm Mark!
 
 I am a Renewable Energy Project Manager with international experience delivering multi-MW solar power plant projects, coordinating construction activities, and managing engineering documentation.
 
