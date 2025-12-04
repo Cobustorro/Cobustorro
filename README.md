@@ -1,4 +1,4 @@
-# Hi, I'm Mark!
+#👋 Hi, I'm Mark!
 
 I am a Renewable Energy Project Manager with international experience delivering multi-MW solar power plant projects, coordinating construction activities, and managing engineering documentation.
 
@@ -7,7 +7,7 @@ Over the past year, I have been deeply upskilling through hands-on labs, formal 
 
 ---
 
-## My Technical & Cybersecurity Foundation
+## 💻 My Technical & Cybersecurity Foundation
 
 I am developing practical, job-ready skills in areas such as:
 
@@ -25,7 +25,7 @@ I am developing practical, job-ready skills in areas such as:
 
 I strengthen these skills through **self-hosted homelabs**, **cloud-based environments**, and **structured certification paths**.
 
-### Key Hands-on Projects
+### 🛠️ Key Hands-on Projects
 
 I've developed and implemented hands-on solutions demonstrating enterprise-ready security practices:
 
@@ -49,6 +49,6 @@ Deployed a Microsoft 35 developer environment and connected endpoints to Microso
 
 ---
 
-### Connect with Me
+### 📫 Connect with Me
 
 [LinkedIn: MarkCsete](linkedin.com/in/csetemark)
