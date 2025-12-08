@@ -44,7 +44,7 @@ Developed an enterprise-like AD lab integrated with Splunk and automation.
 
 #### 3. Cloud & Endpoint Security ## Uploading is in progress
 
-Deployed a Microsoft 35 developer environment and connected endpoints to Microsoft Defender for Endpoint.
+Deployed a Microsoft 365 developer environment and connected endpoints to Microsoft Defender for Endpoint.
 * Practiced Sentinel queries (KQL) to investigate authentication anomalies and cloud activity logs2.
 
 ---
