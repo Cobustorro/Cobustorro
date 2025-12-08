@@ -33,7 +33,7 @@ I've developed and implemented hands-on solutions demonstrating enterprise-ready
 
 Built a functional SOC environment integrating SIEM, SOAR (Shuffle), and case management (TheHive).
 * Configured Wazuh with Sysmon for endpoint monitoring and created custom detection rules.
-* Built SOAR workflows to automate enrichment (VirusTotal) and forward alerts].
+* Built SOAR workflows to automate enrichment (VirusTotal) and forward alerts.
 * Implemented an analyst-approved containment action that blocks malicious IPs using Wazuh active response.
 
 #### 2. Active Directory Security & Automated Account Containment ## Uploading is in progress
@@ -45,7 +45,7 @@ Developed an enterprise-like AD lab integrated with Splunk and automation.
 #### 3. Cloud & Endpoint Security ## Uploading is in progress
 
 Deployed a Microsoft 365 developer environment and connected endpoints to Microsoft Defender for Endpoint.
-* Practiced Sentinel queries (KQL) to investigate authentication anomalies and cloud activity logs2.
+* Practiced Sentinel queries (KQL) to investigate authentication anomalies and cloud activity logs.
 
 ---
 
